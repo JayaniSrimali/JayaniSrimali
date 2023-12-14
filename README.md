@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C,C,C++,HTML,CSS,JS,PHP,JAVA**
 
-- 📫 How to reach me **jayanisrimali@gmail.com**
+- 📫 How to reach me **jayanisrimali666@gmail.com**
 
 - ⚡ Fun fact **I Think I am funny.**
 
