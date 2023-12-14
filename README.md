@@ -1,4 +1,5 @@
-< a src ="https://wallpaperaccess.com/full/4391724.jpg">
+< img src ="https://wallpaperaccess.com/full/4391724.jpg">
+
 <h1 align="center">Hi 👋, I'm Jayani Srimali</h1>
 <h3 align="center">A passionate Software developer from Sri Lanka</h3>
 
