@@ -1,4 +1,4 @@
-
+![Jayani Srimali](https://github.com/JayaniSrimali/JayaniSrimali/assets/127177432/ebc32e06-74c6-4b67-b4f1-ed3d6a66e533)
 <h1 align="center">Hi 👋, I'm Jayani Srimali</h1>
 <h3 align="center">A passionate Software developer from Sri Lanka</h3>
 
