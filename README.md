@@ -1,4 +1,4 @@
-
+![Cover](https://github.com/Theekshana-z/Theekshana-z/assets/121856255/0cd84d92-39f0-4c64-8649-682a965e3242)
 <h1 align="center">Hi 👋, I'm Jayani Srimali</h1>
 <h3 align="center">A passionate Software developer from Sri Lanka</h3>
 
