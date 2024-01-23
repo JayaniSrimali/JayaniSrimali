@@ -1,4 +1,4 @@
-![Cover](https://github.com/Theekshana-z/Theekshana-z/assets/121856255/0cd84d92-39f0-4c64-8649-682a965e3242)
+![Cover](https://www.canva.com/design/DAF6sa1mtYA/0If_oiZD9TJG__7amSY3iQ/edit?utm_content=DAF6sa1mtYA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <h1 align="center">Hi 👋, I'm Jayani Srimali</h1>
 <h3 align="center">A passionate Software developer from Sri Lanka</h3>
 
