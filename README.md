@@ -1,4 +1,4 @@
-< a href = " https://www.canva.com/design/DAF6sa1mtYA/0If_oiZD9TJG__7amSY3iQ/edit?utm_content=DAF6sa1mtYA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+< a href = " https://www.canva.com/design/DAF6sa1mtYA/0If_oiZD9TJG__7amSY3iQ/edit?utm_content=DAF6sa1mtYA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> </a>
 <h1 align="center">Hi 👋, I'm Jayani Srimali</h1>
 <h3 align="center">A passionate Software developer from Sri Lanka</h3>
 
